@@ -21,6 +21,8 @@ At this stage, the conversation focuses on only 6 topics of hobbies:
 
 -Movies
 
+-Singing
+
 
 The chatbot "Mike" can have brief conversations with user around these topics.
 
@@ -45,7 +47,7 @@ User: jsiejele
 Mike: I'm sorry I don't understand. Could we talk about something else?
 ```
 
-listing:
+# listing:
 
 1. Requirement Analyzing.
 
